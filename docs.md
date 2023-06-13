@@ -10,6 +10,7 @@ The workprofile of a docs team member emphasizes to create concise, professional
 
 ### Team Lead
  * Himanshu Singh 
+   
    The documentation team lead is the leader of the documentation team in the org. He oversee the crg's technical documents to ensure a cohesive voice representing the org and its message.
 
 ### Members from TE
