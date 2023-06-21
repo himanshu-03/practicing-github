@@ -1,6 +1,12 @@
-# HI IM UTSAV IM A DEVELOPER (ALMOST)
- ***A PEOPLE PLEASER***
+# HI i'm rahul 
+# IM A DEVELOPER (ALMOST)
 
- ***NEEDS MENTAL HELP***
+connect with me🤪:
 
- [INSTAGRAM](https://www.instagram.com/rrahulol/)
+[instagram](https://www.instagram.com/rrahulol/)
+
+<details><summary>languages</summary>
+javascript
+<br>
+python
+</details>
