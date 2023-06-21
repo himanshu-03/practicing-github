@@ -14,7 +14,8 @@
    <br>
    <br>
 # **🔗 Connect with me**
-[![](https://cdn-icons-png.flaticon.com/512/733/733553.png)](https://github.com/AadilRayeen)
+
+[![Photo](https://cdn-icons-png.flaticon.com/512/733/733553.png)](https://github.com/AadilRayeen)
 [![](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)](https://www.linkedin.com/in/aadil-rayeen-4a2231254)
 [![](https://cdn-icons-png.flaticon.com/512/1384/1384063.png)](https://www.instagram.com/___aadillll_)
 [![](https://cdn-icons-png.flaticon.com/512/5968/5968534.png)](mailto:rayeenaadil371@gmail.com)
